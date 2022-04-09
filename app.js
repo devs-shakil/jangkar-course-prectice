@@ -99,18 +99,21 @@
 
 //duplicate array remove;
 
-var names = ["shakil", "kamal", "jamal", 
-"roni", "rakib ", "suhad","jamal", "roni", "rakib ", "suhad", "kalam"];
+// var names = ["shakil", "kamal", "jamal", 
+// "roni", "rakib ", "suhad","jamal", "roni", "rakib ", "suhad", "kalam"];
 
-var uniqueName = [];
+// var uniqueName = [];
 
-for(var i = 0; i<names.length; i++){
-    var element = names[i];
-    var index = uniqueName.indexOf(element);
-    if(index == -1){
-        uniqueName.push(element)
-    }
-}
+// for(var i = 0; i<names.length; i++){
+//     var element = names[i];
+//     var index = uniqueName.indexOf(element);
+//     if(index == -1){
+//         uniqueName.push(element)
+//     }
+// }
 
-console.log(uniqueName)
+// console.log(uniqueName)
+
+
+//
 
