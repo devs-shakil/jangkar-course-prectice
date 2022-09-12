@@ -64,4 +64,21 @@ console.log(sum);
  console.log(sum); */
 
 
- 
+ //filter, map, find
+ /* const students  = [
+    {id : 01, name: "Shakil Hossain"},
+    {id: 02, name: "Hasan Rakib"},
+    {id: 03, name: " ics Rakib Hossan"},
+    {id: 04, name: "tanzina akther"}
+ ]
+ const names = students.map(s => s.name);
+ const ids = students.map(i => i.id);
+const oldest = students.find(o => o.id>2)
+const filterName= students.filter(f => f.name==="Shakil Hossain");
+
+
+console.log(names);
+console.log(ids);
+console.log(oldest)
+console.log(filterName) */
+
