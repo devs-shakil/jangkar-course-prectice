@@ -1,4 +1,4 @@
-const person ={
+/* const person ={
     firstName: 'Shakil',
     lastName : 'Hossain',
     sallary: 14000,
@@ -13,4 +13,6 @@ const person ={
 
 }
 person.billCharge(3000);
+person.billCharge(4000);
 console.log(person.sallary);
+ */
