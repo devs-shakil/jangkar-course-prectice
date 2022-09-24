@@ -1,4 +1,4 @@
-class Person{
+/* class Person{
     constructor (firstName, lastName, age, salary){
         this.firstName = firstName;
         this.lastName = lastName;
@@ -12,3 +12,4 @@ const person2 = new Person('Rakib', 'Hossain', 25, 20000);
 
 console.log(person1);
 console.log(person2)
+ */
